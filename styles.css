@@ -1,0 +1,24 @@
+.main {
+    background-image: url("plant.jpeg");
+    color:black;
+    padding: 100px 25px;
+  }
+h1{
+      font-size: 50px;
+  }
+p{
+      font-size: 20px;
+  }
+.container-fluid {
+    
+    padding: 60px 50px;
+  }
+.pic {
+    font-size: 200px;
+  }
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+  }
